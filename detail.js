@@ -1,0 +1,1 @@
+document.querySelectorAll("#basic-addon2").forEach(e=>{e.addEventListener("click",()=>{e.previousElementSibling.hasAttribute("disabled")?e.previousElementSibling.removeAttribute("disabled"):e.previousElementSibling.setAttribute("disabled",!0)})});
