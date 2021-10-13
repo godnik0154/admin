@@ -1,2 +1,2 @@
 # admin
-Resourses for Admin Panel Internship
+Dashboard for Dreadnought Web App
